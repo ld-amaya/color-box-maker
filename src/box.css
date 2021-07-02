@@ -1,0 +1,9 @@
+.boxStyle{
+    margin: 0 auto;
+    margin-left: 10px;
+}
+
+.boxesDisplay{
+    display: inline-flex;
+    margin-top: 10px;
+}
